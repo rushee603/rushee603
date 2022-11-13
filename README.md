@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushee603&show_icons=true&locale=en" alt="rushee603" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushee603&" alt="rushee603" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushee603&" color="black" alt="rushee603" /></p>
 
