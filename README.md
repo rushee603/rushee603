@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushee603" alt="rushee603" /></a> </p>
 
-- 🌱 I’m currently learning **Spring-Boot**
+- 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **Java, MySql, Mongodb, Angular, Springboot**
+- 💬 Ask me about **Java, JavaScript, React, Angular, RestApi, GraphQL, Microservice, Spring-boot, MySql, Mongodb,**
 
-- 📫 How to reach me **rsmule7777@gmail.com**
+- 📫 How to reach me **rushikeshmule.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
