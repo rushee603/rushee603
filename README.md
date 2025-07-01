@@ -10,7 +10,7 @@
 - 💬 Ask me about **Java, JavaScript, Typescript, React, Angular, RestApi, GraphQL, Microservice, Spring-boot, MySql, Mongodb, Redis**
 
 - 📫 How to reach me **rushikeshmule.dev@gmail.com**
-- 📄 Download My Resume  **[📥 Click here to download Rushikesh Mule's Resume](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQbfxhkvRkQkPWcmBQqNcmjLPDr?projector=1&messagePartId=0.1)**
+- 📄 Download My Resume  **[ 📥 RushikeshMuleResume ](https://drive.google.com/file/d/1nsLBSZ42SeGjo94vVIh1sJ7YVKDtooHK/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
