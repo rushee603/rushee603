@@ -5,11 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushee603" alt="rushee603" /></a> </p>
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Azure Cloud Technologies**
 
-- 💬 Ask me about **Java, JavaScript, React, Angular, RestApi, GraphQL, Microservice, Spring-boot, MySql, Mongodb,**
+- 💬 Ask me about **Java, JavaScript, Typescript, React, Angular, RestApi, GraphQL, Microservice, Spring-boot, MySql, Mongodb, Redis**
 
 - 📫 How to reach me **rushikeshmule.dev@gmail.com**
+- 📄 Download My Resume  **[📥 Click here to download Rushikesh Mule's Resume](https://github.com/rushee603/portfolio/raw/main/assets/RushikeshMuleResume.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
