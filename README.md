@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Mule</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer </h3>
-<img style="border-radius:20px;width:150%;margin-left="500px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="">
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rushee603&label=Profile%20views&color=0e75b6&style=flat" alt="rushee603" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushee603" alt="rushee603" /></a> </p>
+<div style="text-align: center;">
+  <img 
+    src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" 
+    alt="Full Stack GIF"
+    style="border-radius: 20px; max-width: 100%; width: 600px;" />
+</div>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rushee603&label=Profile%20views&color=0e75b6&style=flat" alt="rushee603" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushee603" alt="rushee603" /></a> </p>
 
 - 🌱 I’m currently learning **Azure Cloud Technologies**
 
