@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Mule</h1>
 <h3 align="center">A Passionate Full Stack Software Engineer </h3>
 
-<div style="text-align: center;">
+<div align="center">
   <img 
     src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" 
     alt="Full Stack GIF"
-    style="border-radius: 20px; max-width: 100%; width: 600px;" />
+    style="border-radius: 20px; max-width: 100%; width: 600px;"/>
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rushee603&label=Profile%20views&color=0e75b6&style=flat" alt="rushee603" /> </p>
