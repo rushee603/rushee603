@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rushikeshmule.dev@gmail.com**
 
-- 📄 Download My Resume  **[ 📥 Rushikesh-Mule-Resume ](https://drive.google.com/file/d/1nsLBSZ42SeGjo94vVIh1sJ7YVKDtooHK/view?usp=sharing)**
+- 📄 Download My Resume  **[ Rushikesh-Mule-Resume  📥 ](https://drive.google.com/file/d/1nsLBSZ42SeGjo94vVIh1sJ7YVKDtooHK/view?usp=sharing)**
 
 
 <h3 align="left">Connect with me:</h3>
