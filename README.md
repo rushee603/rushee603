@@ -46,92 +46,102 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
 
-  <!-- Backend -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+<!-- Backend -->
+<h4 align="left">🔧 Backend</h4>
+<p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <a href="https://projectreactor.io/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://projectreactor.io/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="WebFlux" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
   </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" style="margin: 8px;">
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png" alt="REST API" width="40" height="40"/>
   </a>
+</p>
 
-   <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+<!-- Frontend -->
+<h4 align="left">🎨 Frontend</h4>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.apollographql.com/docs/react/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" alt="Apollo Client" width="40" height="40"/>
   </a>
-  <a href="https://mui.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" style="margin: 8px;">
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Database -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+<!-- Database -->
+<h4 align="left">💾 Database</h4>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer" style="margin: 8px;">
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
   </a>
+</p>
 
 <!-- Testing -->
-<a href="https://junit.org/" target="_blank" rel="noreferrer" style="margin: 6px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
-</a>
+<h4 align="left">🧪 Testing</h4>
+<p align="left">
+  <a href="https://junit.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40" height="40"/>
+  </a>
+  <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Mockito_Logo.png" alt="Mockito" width="40" height="40" style="background-color: white; padding: 4px; border-radius: 6px; object-fit: contain;"/>
+  </a>
+</p>
 
-<a href="https://site.mockito.org/" target="_blank" rel="noreferrer" style="margin: 6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Mockito_Logo.png" 
-       alt="Mockito" 
-       width="40" 
-       height="40" 
-       style="background-color: white; padding: 4px; border-radius: 6px; object-fit: contain;"/>
-</a>
-
-  <!-- Dev Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+<!-- Dev Tools -->
+<h4 align="left">⚙️ Developer Tools</h4>
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" style="margin: 5px;">
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer" style="margin: 8px;">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
   </a>
+</p>
 
-  <!-- Project Management -->
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" style="margin: 5px;">
+<!-- Project Management -->
+<h4 align="left">📋 Project Management</h4>
+<p align="left">
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer" style="margin: 5px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" alt="Atlassian Tools" width="40" height="40"/>
+  <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/atlassian-1.svg" alt="Atlassian" width="40" height="40"/>
   </a>
-  
 </p>
